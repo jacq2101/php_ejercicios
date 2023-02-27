@@ -1,0 +1,10 @@
+<?php
+// Obtener la fecha actual del servidor
+$fecha_actual = date('Y-m-d');
+
+// Obtener la semana del año
+$semana = date('W', strtotime($fecha_actual));
+
+// Imprimir la semana del año
+echo "La semana del año es: " . $semana;
+?>
