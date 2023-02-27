@@ -42,7 +42,5 @@
 
 <p align="center">Quiero agradecer a la comunidad de PHP por su apoyo y contribuciones a lo largo de los años. Espero que estos ejercicios ayuden a más desarrolladores a aprender y apreciar lo poderoso y divertido que puede ser PHP.</p>
 
-https://media.giphy.com/media/KufI7NaMR1Epa/giphy.gif
 
-
-<h3 align="center"><img src="https://media.giphy.com/media/KufI7NaMR1Epa/giphy.gif" alt="I💙PHP" width="450" height="300" style="display:block;margin:auto;"><p>I💙Excel</p></h3>
+<h3 align="center"><img src="https://media.giphy.com/media/KufI7NaMR1Epa/giphy.gif" alt="I💙PHP" width="450" height="300" style="display:block;margin:auto;"><p>I💙PHP</p></h3>
